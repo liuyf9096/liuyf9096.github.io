@@ -1,12 +1,12 @@
-# 欢迎来到我的 GitHub 主页 👋
+# Welcome to Yufei Liu's Page  👋
 
-我是 [你的名字]，一名热爱软件开发的工程师。
+I'm Yufei Liu, a software developer. I have worked as senior software engineer for more than 10 years.
 
-## 🔧 技能
-- Python, Java, C++
+## 🔧 Skills
+- C++, Python, Qt
 - 机器学习与人工智能
 - 机器人开发
 
 ## 📫 联系我
-- [邮箱地址]
+- [liuyf9096@gmail.com]
 - [LinkedIn链接]
